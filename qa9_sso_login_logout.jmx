@@ -167,7 +167,7 @@ vars.put(&quot;basic_auth&quot;, new String(encodedUsernamePassword));</stringPr
           <CSVDataSet guiclass="TestBeanGUI" testclass="CSVDataSet" testname="CSV Data Set Config">
             <stringProp name="delimiter">,</stringProp>
             <stringProp name="fileEncoding"></stringProp>
-            <stringProp name="filename">C:/apache-jmeter-5.6.3/bin/SSO/qa9-users.csv</stringProp>
+            <stringProp name="filename">/home/aut/apache-jmeter-5.6.3/jmeter/qa9-users.csv</stringProp>
             <boolProp name="ignoreFirstLine">true</boolProp>
             <boolProp name="quotedData">false</boolProp>
             <boolProp name="recycle">true</boolProp>
